@@ -4,11 +4,11 @@ This repository hosts the development of an AI-powered document extractor, a cap
 
 ### Commands to initialize:
 # If flowise installed:
-```
+``` bash
 $ npx flowise start
 ```
 # If flowise not installed:
-```
-  $ npm install -g flowise
+``` bash
+  $ npm install flowise 
   $ npx flowise start
 ```  
