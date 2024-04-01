@@ -7,8 +7,23 @@ This repository hosts the development of an AI-powered document extractor, a cap
 ``` bash
 $ npx flowise start
 ```
+
 # If flowise not installed:
 ``` bash
   $ npm install flowise 
   $ npx flowise start
 ```  
+
+# Process of adding chat flows
+1. Run the following command:
+``` bash
+  $ npx flowise start
+```
+2. Make a new graph
+3. Press the cog button in the upper right corner
+4. Click "Load Chat Flow"
+5. Test it by saving it to your cookies so that it shows up in your 
+flowise menu
+
+
+- Requires OpenAI Keys to run and test the program
